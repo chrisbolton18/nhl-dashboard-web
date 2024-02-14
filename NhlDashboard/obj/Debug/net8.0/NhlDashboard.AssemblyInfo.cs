@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NhlDashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bf049a1ae593cff47cc948d9d2a3888a684c527")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebbedc7d4076227b6962ba344528001c6c0ca8ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("NhlDashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NhlDashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

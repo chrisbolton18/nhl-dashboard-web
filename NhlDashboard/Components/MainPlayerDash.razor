@@ -1,0 +1,34 @@
+@using NhlDashboard.Controller.Frontpage
+
+<Heading>@currentPlayer</Heading>
+<Figure Size="FigureSize.Is256x256">
+    <FigureImage Source="empty-256x256.png" AlternateText="empty-256x256" />
+
+    @if (currentPlayerStats == null)
+    {
+
+    }
+    else
+    {
+        <Heading>Goals:</Heading> <Text>@currentPlayerStats.career.goals</Text>
+        <Heading>Assists:</Heading> <Text>@currentPlayerStats.career.assists</Text>
+        <Heading>Points:</Heading> <Text>@currentPlayerStats.career.points</Text>
+        <Heading>+/-:</Heading> <Text>@currentPlayerStats.career.plusMinus</Text>
+        <Heading>PIM:</Heading> <Text>@currentPlayerStats.career.pim</Text>
+    }
+
+</Figure>
+
+
+@code {
+    private string currentPlayer = "Connor McDavid";
+
+    private PlayerStats.PlayerStatsJson? currentPlayerStats = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        currentPlayerStats = await PlayerStats.Instance().Call(currentPlayer);
+
+        base.OnInitialized();
+    }
+}

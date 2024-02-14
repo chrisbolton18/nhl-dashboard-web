@@ -1,23 +1,27 @@
 {
   "Files": [
     {
-      "Id": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/projectbundle/NhlDashboard.bundle.scp.css",
+      "Id": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/projectbundle/NhlDashboard.bundle.scp.css",
       "PackagePath": "staticwebassets/NhlDashboard.bundle.scp.css"
     },
     {
-      "Id": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/app.css",
+      "Id": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/bootstrap/bootstrap.min.css",
+      "Id": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Id": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/favicon.png",
+      "Id": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/empty-256x256.png",
+      "PackagePath": "staticwebassets/empty-256x256.png"
+    },
+    {
+      "Id": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
