@@ -1,6 +1,6 @@
 using NhlDashboard.Components;
 using Blazorise;
-using Blazorise.Bootstrap5;
+using Blazorise.Bootstrap;
 using Blazorise.Icons.FontAwesome;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,7 +10,7 @@ builder.Services
     {
         options.Immediate = true;
     })
-    .AddBootstrap5Providers()
+    .AddBootstrapProviders()
     .AddFontAwesomeIcons();
 
 // Add services to the container.

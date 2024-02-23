@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nic/git/nhl-dashboard-web/NhlDashboard/NhlDashboard.csproj": {}
+    "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/NhlDashboard.csproj": {}
   },
   "projects": {
-    "/Users/nic/git/nhl-dashboard-web/NhlDashboard/NhlDashboard.csproj": {
+    "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/NhlDashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/NhlDashboard.csproj",
+        "projectUniqueName": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/NhlDashboard.csproj",
         "projectName": "NhlDashboard",
-        "projectPath": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/NhlDashboard.csproj",
-        "packagesPath": "/Users/nic/.nuget/packages/",
-        "outputPath": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/obj/",
+        "projectPath": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/NhlDashboard.csproj",
+        "packagesPath": "/Users/chrisbolton/.nuget/packages/",
+        "outputPath": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nic/.nuget/NuGet/NuGet.Config"
+          "/Users/chrisbolton/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -42,7 +47,7 @@
               "target": "Package",
               "version": "[1.4.2, )"
             },
-            "Blazorise.Bootstrap5": {
+            "Blazorise.Bootstrap": {
               "target": "Package",
               "version": "[1.4.2, )"
             },
@@ -70,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

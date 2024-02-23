@@ -3,21 +3,10 @@ using System.ComponentModel;
 namespace NhlDashboard.Controller.Frontpage
 {
 
-    public class PlayerStats
+    public class PlayerStats : AbstractController
     {
 
-        private static HttpClient client = new HttpClient();
-        private string BASE_URI = "http://127.0.0.1:8000";
-
-        private static PlayerStats? instance = null;
-        private PlayerStats() { }
-        public static PlayerStats Instance()
-        {
-            if (instance == null) instance = new PlayerStats();
-            return instance;
-        }
-
-        public async Task<PlayerStatsJson> Call(string playerName)
+        protected override async Task<IJson> Call(string playerName)
         {
             try
             {
@@ -40,7 +29,7 @@ namespace NhlDashboard.Controller.Frontpage
             public int points { get; set; }
         }
 
-        public class PlayerStatsJson
+        public class PlayerStatsJson : IJson
         {
             public Career career { get; set; }
             public SubSeason subSeason { get; set; }
@@ -54,5 +43,7 @@ namespace NhlDashboard.Controller.Frontpage
             public int plusMinus { get; set; }
             public int points { get; set; }
         }
+
+
     }
 }

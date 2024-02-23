@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YVhhDSDZz+IHBFJvao1h5VlAJtXRyJE8deLiZijcOvM=",
+  "Hash": "OZl34GILpAkX4Om/SaVD+fwBSwC+4RrKLCMb8JLIx9w=",
   "Source": "NhlDashboard",
   "BasePath": "_content/NhlDashboard",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "NhlDashboard/wwwroot",
       "Source": "NhlDashboard",
-      "ContentRoot": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/",
+      "ContentRoot": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/",
       "BasePath": "_content/NhlDashboard",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise.bootstrap5/1.4.2/staticwebassets/blazorise.bootstrap5.css",
-      "SourceId": "Blazorise.Bootstrap5",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise.bootstrap/1.4.2/staticwebassets/blazorise.bootstrap.css",
+      "SourceId": "Blazorise.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise.bootstrap5/1.4.2/staticwebassets/",
-      "BasePath": "_content/Blazorise.Bootstrap5",
-      "RelativePath": "blazorise.bootstrap5.css",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise.bootstrap/1.4.2/staticwebassets/",
+      "BasePath": "_content/Blazorise.Bootstrap",
+      "RelativePath": "blazorise.bootstrap.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,15 +33,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise.bootstrap5/1.4.2/staticwebassets/blazorise.bootstrap5.css"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise.bootstrap/1.4.2/staticwebassets/blazorise.bootstrap.css"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise.bootstrap5/1.4.2/staticwebassets/blazorise.bootstrap5.min.css",
-      "SourceId": "Blazorise.Bootstrap5",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise.bootstrap/1.4.2/staticwebassets/blazorise.bootstrap.min.css",
+      "SourceId": "Blazorise.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise.bootstrap5/1.4.2/staticwebassets/",
-      "BasePath": "_content/Blazorise.Bootstrap5",
-      "RelativePath": "blazorise.bootstrap5.min.css",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise.bootstrap/1.4.2/staticwebassets/",
+      "BasePath": "_content/Blazorise.Bootstrap",
+      "RelativePath": "blazorise.bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,14 +52,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise.bootstrap5/1.4.2/staticwebassets/blazorise.bootstrap5.min.css"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise.bootstrap/1.4.2/staticwebassets/blazorise.bootstrap.min.css"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise.bootstrap5/1.4.2/staticwebassets/modal.js",
-      "SourceId": "Blazorise.Bootstrap5",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise.bootstrap/1.4.2/staticwebassets/modal.js",
+      "SourceId": "Blazorise.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise.bootstrap5/1.4.2/staticwebassets/",
-      "BasePath": "_content/Blazorise.Bootstrap5",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise.bootstrap/1.4.2/staticwebassets/",
+      "BasePath": "_content/Blazorise.Bootstrap",
       "RelativePath": "modal.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -71,14 +71,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise.bootstrap5/1.4.2/staticwebassets/modal.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise.bootstrap/1.4.2/staticwebassets/modal.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise.bootstrap5/1.4.2/staticwebassets/tooltip.js",
-      "SourceId": "Blazorise.Bootstrap5",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise.bootstrap/1.4.2/staticwebassets/tooltip.js",
+      "SourceId": "Blazorise.Bootstrap",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise.bootstrap5/1.4.2/staticwebassets/",
-      "BasePath": "_content/Blazorise.Bootstrap5",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise.bootstrap/1.4.2/staticwebassets/",
+      "BasePath": "_content/Blazorise.Bootstrap",
       "RelativePath": "tooltip.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise.bootstrap5/1.4.2/staticwebassets/tooltip.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise.bootstrap/1.4.2/staticwebassets/tooltip.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/blazorise.css",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/blazorise.css",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "blazorise.css",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/blazorise.css"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/blazorise.css"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/blazorise.min.css",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/blazorise.min.css",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "blazorise.min.css",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/blazorise.min.css"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/blazorise.min.css"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/breakpoint.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/breakpoint.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "breakpoint.js",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/breakpoint.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/breakpoint.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/button.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/button.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "button.js",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/button.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/button.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/closable.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/closable.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "closable.js",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/closable.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/closable.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/colorPicker.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/colorPicker.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "colorPicker.js",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/colorPicker.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/colorPicker.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/datePicker.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/datePicker.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "datePicker.js",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/datePicker.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/datePicker.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/dragDrop.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/dragDrop.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "dragDrop.js",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/dragDrop.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/dragDrop.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/dropdown.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/dropdown.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "dropdown.js",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/dropdown.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/dropdown.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/fileEdit.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/fileEdit.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "fileEdit.js",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/fileEdit.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/fileEdit.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/filePicker.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/filePicker.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "filePicker.js",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/filePicker.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/filePicker.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/floatingUi.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/floatingUi.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "floatingUi.js",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/floatingUi.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/floatingUi.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/inputMask.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/inputMask.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "inputMask.js",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/inputMask.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/inputMask.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/io.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/io.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "io.js",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/io.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/io.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/memoEdit.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/memoEdit.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "memoEdit.js",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/memoEdit.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/memoEdit.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/numericPicker.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/numericPicker.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "numericPicker.js",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/numericPicker.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/numericPicker.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/observer.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/observer.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "observer.js",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/observer.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/observer.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/table.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/table.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "table.js",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/table.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/table.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/textEdit.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/textEdit.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "textEdit.js",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/textEdit.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/textEdit.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/theme.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/theme.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "theme.js",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/theme.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/theme.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/timePicker.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/timePicker.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "timePicker.js",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/timePicker.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/timePicker.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/tooltip.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/tooltip.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "tooltip.js",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/tooltip.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/tooltip.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/utilities.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/utilities.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "utilities.js",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/utilities.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/utilities.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/DateTimeMaskValidator.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/DateTimeMaskValidator.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "validators/DateTimeMaskValidator.js",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/DateTimeMaskValidator.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/DateTimeMaskValidator.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/NoValidator.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/NoValidator.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "validators/NoValidator.js",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/NoValidator.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/NoValidator.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/NumericMaskValidator.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/NumericMaskValidator.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "validators/NumericMaskValidator.js",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/NumericMaskValidator.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/NumericMaskValidator.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/RegExMaskValidator.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/RegExMaskValidator.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "validators/RegExMaskValidator.js",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/RegExMaskValidator.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/validators/RegExMaskValidator.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/autoNumeric.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/autoNumeric.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/autoNumeric.js",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/autoNumeric.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/autoNumeric.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/Behave.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/Behave.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/Behave.js",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/Behave.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/Behave.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/flatpickr.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/flatpickr.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/flatpickr.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/flatpickr.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/flatpickr.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/floating-ui-core.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/floating-ui-core.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/floating-ui-core.js",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/floating-ui-core.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/floating-ui-core.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/floating-ui.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/floating-ui.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/floating-ui.js",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/floating-ui.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/floating-ui.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/inputmask.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/inputmask.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/inputmask.js",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/inputmask.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/inputmask.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/jsencrypt.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/jsencrypt.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/jsencrypt.js",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/jsencrypt.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/jsencrypt.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/Pickr.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/Pickr.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/Pickr.js",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/Pickr.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/Pickr.js"
     },
     {
-      "Identity": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/sha512.js",
+      "Identity": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/sha512.js",
       "SourceId": "Blazorise",
       "SourceType": "Package",
-      "ContentRoot": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/",
+      "ContentRoot": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/",
       "BasePath": "_content/Blazorise",
       "RelativePath": "vendors/sha512.js",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/sha512.js"
+      "OriginalItemSpec": "/Users/chrisbolton/.nuget/packages/blazorise/1.4.2/staticwebassets/vendors/sha512.js"
     },
     {
-      "Identity": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/bundle/NhlDashboard.styles.css",
+      "Identity": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/bundle/NhlDashboard.styles.css",
       "SourceId": "NhlDashboard",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/NhlDashboard",
       "RelativePath": "NhlDashboard.styles.css",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/bundle/NhlDashboard.styles.css"
+      "OriginalItemSpec": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/bundle/NhlDashboard.styles.css"
     },
     {
-      "Identity": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/projectbundle/NhlDashboard.bundle.scp.css",
+      "Identity": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/projectbundle/NhlDashboard.bundle.scp.css",
       "SourceId": "NhlDashboard",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/NhlDashboard",
       "RelativePath": "NhlDashboard.bundle.scp.css",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/projectbundle/NhlDashboard.bundle.scp.css"
+      "OriginalItemSpec": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/projectbundle/NhlDashboard.bundle.scp.css"
     },
     {
-      "Identity": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/app.css",
+      "Identity": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/app.css",
       "SourceId": "NhlDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/",
+      "ContentRoot": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/",
       "BasePath": "_content/NhlDashboard",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "NhlDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/",
+      "ContentRoot": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/",
       "BasePath": "_content/NhlDashboard",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "NhlDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/",
+      "ContentRoot": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/",
       "BasePath": "_content/NhlDashboard",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/empty-256x256.png",
+      "Identity": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/empty-256x256.png",
       "SourceId": "NhlDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/",
+      "ContentRoot": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/",
       "BasePath": "_content/NhlDashboard",
       "RelativePath": "empty-256x256.png",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/empty-256x256.png"
     },
     {
-      "Identity": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/favicon.png",
+      "Identity": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/favicon.png",
       "SourceId": "NhlDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/wwwroot/",
+      "ContentRoot": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/wwwroot/",
       "BasePath": "_content/NhlDashboard",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

@@ -1,34 +1,42 @@
 @using NhlDashboard.Controller.Frontpage
 
-<Heading>@currentPlayer</Heading>
-<Figure Size="FigureSize.Is256x256">
-    <FigureImage Source="empty-256x256.png" AlternateText="empty-256x256" />
+<Row>
+    <Column>
+        <Heading TextWeight="TextWeight.Bold" Size="HeadingSize.Is1" Padding="Padding.Is4.FromBottom">@currentPlayer
+        </Heading>
 
-    @if (currentPlayerStats == null)
-    {
+        @if (currentPlayerHeadshot != null)
+        {
+            <Image Source="@currentPlayerHeadshot.Value" Width="Width.Rem(15)" />
+        }
+    </Column>
+    <Column>
+        @if (currentPlayerStats != null)
+        {
+            <Div Position="Position.Relative.Top.Is50.Translate.MiddleY">
+                <PlayerStat Label="GOALS:">@currentPlayerStats.career.goals</PlayerStat>
+                <PlayerStat Label="ASSISTS:">@currentPlayerStats.career.assists</PlayerStat>
+                <PlayerStat Label="POINTS:">@currentPlayerStats.career.points</PlayerStat>
+                <PlayerStat Label="+/-:">@currentPlayerStats.career.plusMinus</PlayerStat>
+                <PlayerStat Label="PIM:">@currentPlayerStats.career.pim</PlayerStat>
+            </Div>
+        }
+    </Column>
 
-    }
-    else
-    {
-        <Heading>Goals:</Heading> <Text>@currentPlayerStats.career.goals</Text>
-        <Heading>Assists:</Heading> <Text>@currentPlayerStats.career.assists</Text>
-        <Heading>Points:</Heading> <Text>@currentPlayerStats.career.points</Text>
-        <Heading>+/-:</Heading> <Text>@currentPlayerStats.career.plusMinus</Text>
-        <Heading>PIM:</Heading> <Text>@currentPlayerStats.career.pim</Text>
-    }
+</Row>
 
-</Figure>
 
 
 @code {
     private string currentPlayer = "Connor McDavid";
 
     private PlayerStats.PlayerStatsJson? currentPlayerStats = null;
+    private PlayerHeadshot.ByteJson? currentPlayerHeadshot = null;
 
     protected override async Task OnInitializedAsync()
     {
-        currentPlayerStats = await PlayerStats.Instance().Call(currentPlayer);
-
+        currentPlayerStats = (PlayerStats.PlayerStatsJson)(await (new PlayerStats()).Perform(currentPlayer));
+        currentPlayerHeadshot = (PlayerHeadshot.ByteJson?)(await (new PlayerHeadshot()).Perform(currentPlayer));
         base.OnInitialized();
     }
 }

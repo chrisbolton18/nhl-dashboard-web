@@ -28,7 +28,7 @@
           "buildMultiTargeting/Blazorise.props": {}
         }
       },
-      "Blazorise.Bootstrap5/1.4.2": {
+      "Blazorise.Bootstrap/1.4.2": {
         "type": "package",
         "dependencies": {
           "Blazorise": "1.4.2",
@@ -37,16 +37,16 @@
           "Microsoft.Extensions.Logging.Abstractions": "8.0.0"
         },
         "compile": {
-          "lib/net8.0/Blazorise.Bootstrap5.dll": {}
+          "lib/net8.0/Blazorise.Bootstrap.dll": {}
         },
         "runtime": {
-          "lib/net8.0/Blazorise.Bootstrap5.dll": {}
+          "lib/net8.0/Blazorise.Bootstrap.dll": {}
         },
         "build": {
-          "buildTransitive/Blazorise.Bootstrap5.props": {}
+          "buildTransitive/Blazorise.Bootstrap.props": {}
         },
         "buildMultiTargeting": {
-          "buildMultiTargeting/Blazorise.Bootstrap5.props": {}
+          "buildMultiTargeting/Blazorise.Bootstrap.props": {}
         }
       },
       "Blazorise.Icons.FontAwesome/1.4.2": {
@@ -1643,26 +1643,26 @@
         "staticwebassets/vendors/sha512.js"
       ]
     },
-    "Blazorise.Bootstrap5/1.4.2": {
-      "sha512": "v6RenPxQnTcc2CNFvwlQykwtygt2dqAVmX6L1yiAHqqK79WdV8nu2U+P29nrI3Bm/ToFO/Cz4ADH/SxamA26Gg==",
+    "Blazorise.Bootstrap/1.4.2": {
+      "sha512": "HffojaPD5HQs2MwVZ5G9JEs4qOJ1I3eQBmkuUI86FrzzR9rJ/b4iFhhjF0VN4sX4ObZrSmtQRakpQ7/A6MBdPQ==",
       "type": "package",
-      "path": "blazorise.bootstrap5/1.4.2",
+      "path": "blazorise.bootstrap/1.4.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Blazorise.png",
         "LICENSE.md",
-        "blazorise.bootstrap5.1.4.2.nupkg.sha512",
-        "blazorise.bootstrap5.nuspec",
-        "build/Blazorise.Bootstrap5.props",
+        "blazorise.bootstrap.1.4.2.nupkg.sha512",
+        "blazorise.bootstrap.nuspec",
+        "build/Blazorise.Bootstrap.props",
         "build/Microsoft.AspNetCore.StaticWebAssets.props",
-        "buildMultiTargeting/Blazorise.Bootstrap5.props",
-        "buildTransitive/Blazorise.Bootstrap5.props",
-        "lib/net6.0/Blazorise.Bootstrap5.dll",
-        "lib/net7.0/Blazorise.Bootstrap5.dll",
-        "lib/net8.0/Blazorise.Bootstrap5.dll",
-        "staticwebassets/blazorise.bootstrap5.css",
-        "staticwebassets/blazorise.bootstrap5.min.css",
+        "buildMultiTargeting/Blazorise.Bootstrap.props",
+        "buildTransitive/Blazorise.Bootstrap.props",
+        "lib/net6.0/Blazorise.Bootstrap.dll",
+        "lib/net7.0/Blazorise.Bootstrap.dll",
+        "lib/net8.0/Blazorise.Bootstrap.dll",
+        "staticwebassets/blazorise.bootstrap.css",
+        "staticwebassets/blazorise.bootstrap.min.css",
         "staticwebassets/modal.js",
         "staticwebassets/tooltip.js"
       ]
@@ -5345,24 +5345,24 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Blazorise >= 1.4.2",
-      "Blazorise.Bootstrap5 >= 1.4.2",
+      "Blazorise.Bootstrap >= 1.4.2",
       "Blazorise.Icons.FontAwesome >= 1.4.2"
     ]
   },
   "packageFolders": {
-    "/Users/nic/.nuget/packages/": {}
+    "/Users/chrisbolton/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/NhlDashboard.csproj",
+      "projectUniqueName": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/NhlDashboard.csproj",
       "projectName": "NhlDashboard",
-      "projectPath": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/NhlDashboard.csproj",
-      "packagesPath": "/Users/nic/.nuget/packages/",
-      "outputPath": "/Users/nic/git/nhl-dashboard-web/NhlDashboard/obj/",
+      "projectPath": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/NhlDashboard.csproj",
+      "packagesPath": "/Users/chrisbolton/.nuget/packages/",
+      "outputPath": "/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nic/.nuget/NuGet/NuGet.Config"
+        "/Users/chrisbolton/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -5380,6 +5380,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -5390,7 +5395,7 @@
             "target": "Package",
             "version": "[1.4.2, )"
           },
-          "Blazorise.Bootstrap5": {
+          "Blazorise.Bootstrap": {
             "target": "Package",
             "version": "[1.4.2, )"
           },
@@ -5418,7 +5423,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

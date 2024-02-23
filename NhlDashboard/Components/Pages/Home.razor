@@ -6,17 +6,21 @@
     </Column>
 </Row>
 
-<Row>
-    <Column ColumnSize="ColumnSize.Is8" Style="border-style: dotted;">
-        <MainPlayerDash />
-    </Column>
-    <Column ColumnSize="ColumnSize.Is4" Style="border-style: dotted;">
-        <LeadersDash />
-    </Column>
-</Row>
+<Jumbotron Shadow="Shadow.Default">
+    <Row Padding="Padding.Is5.FromBottom">
+        <Column ColumnSize="ColumnSize.Is8" Style="border-style: dotted;">
+            <MainPlayerDash />
+        </Column>
+        <Column ColumnSize="ColumnSize.Is4" Style="border-style: dotted;">
+            <LeadersDash />
+        </Column>
+    </Row>
+</Jumbotron>
 
-<Row>
-    <Column Style="border-style: dotted;" ColumnSize="ColumnSize.Is12">
-        <LastFiveGamesDash />
-    </Column>
-</Row>
+<Jumbotron Shadow="Shadow.Default">
+    <Row>
+        <Column Style="border-style: dotted;" ColumnSize="ColumnSize.Is12">
+            <LastFiveGamesDash />
+        </Column>
+    </Row>
+</Jumbotron>

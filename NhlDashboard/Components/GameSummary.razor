@@ -1,0 +1,52 @@
+@using NhlDashboard.Controller.Frontpage
+
+<Row TextAlignment="TextAlignment.Center" Margin="Margin.IsAuto">
+    <Column ColumnSize="ColumnSize.Is1">
+        <Div Position="Position.Relative.Top.Is50.Translate.MiddleY">
+            <Text TextWeight="TextWeight.Bold">vs.</Text>
+            <Text TextWeight="TextWeight.Bold" TextColor="TextColor.Success">
+                @GameScore
+            </Text>
+
+        </Div>
+    </Column>
+    <Column ColumnSize="ColumnSize.Is5">
+        <Image Source="@Game.opponentLogo" Width="Width.Rem(6)"
+            Position="Position.Relative.Top.Is50.Translate.MiddleY" />
+    </Column>
+    <Column ColumnSize="ColumnSize.Is5" TextAlignment="TextAlignment.Start">
+        <UnorderedList Unstyled Position="Position.Relative.Top.Is50.Translate.MiddleY">
+            <UnorderedListItem TextWeight="TextWeight.Bold">G: @Game.goals</UnorderedListItem>
+            <UnorderedListItem TextWeight="TextWeight.Bold">A: @Game.assists</UnorderedListItem>
+            <UnorderedListItem TextWeight="TextWeight.Bold">PIM: @Game.pim</UnorderedListItem>
+        </UnorderedList>
+    </Column>
+</Row>
+
+@code {
+    [Parameter] public PlayerLastFive.GameData Game { get; set; }
+
+    private string GameScoreColor;
+    private string GameScore;
+    protected override void OnInitialized()
+    {
+
+        GameScoreColor = (Game.win) ? "TextColor.Success" : "TextColor.Danger";l
+
+        GameScore = ParseScore(Game.score, Game.win);
+
+        base.OnInitialized();
+    }
+
+    private string ParseScore(string score, bool boolWin)
+    {
+        int score1 = score[4] - '0';
+        int score2 = score[6] - '0';
+
+        int higher_score = (score1 > score2) ? score1 : score2;
+        int lower_score = (higher_score == score1) ? score2 : score1;
+
+        if (boolWin) return $"{higher_score}-{lower_score}";
+        else return $"{lower_score}-{higher_score}";
+    }
+}

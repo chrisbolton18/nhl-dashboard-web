@@ -1,0 +1,30 @@
+@using NhlDashboard.Controller.Frontpage
+
+@if (Games != null)
+{
+
+    <Row>
+    @foreach (PlayerLastFive.GameData game in Games.games)
+        {
+            PlayerLastFive.GameData myGame = game;
+
+            <Column>
+                <GameSummary Game="@myGame" />
+            </Column>
+        }
+        </Row>
+}
+
+
+@code {
+
+    private string currentPlayer = "Connor McDavid";
+
+    private PlayerLastFive.GameDataList? Games = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Games = (PlayerLastFive.GameDataList)(await (new PlayerLastFive()).Perform(currentPlayer));
+        base.OnInitialized();
+    }
+}

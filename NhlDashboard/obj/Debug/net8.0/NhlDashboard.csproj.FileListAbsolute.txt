@@ -20,7 +20,6 @@
 /Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NhlDashboard.props
 /Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/staticwebassets.pack.json
 /Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
-/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
 /Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/bundle/NhlDashboard.styles.css
 /Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/scopedcss/projectbundle/NhlDashboard.bundle.scp.css
 /Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/NhlDashboard.dll
@@ -71,3 +70,17 @@
 /Users/nic/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/Microsoft.JSInterop.dll
 /Users/nic/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/NhlDashboard.csproj.AssemblyReference.cache
 /Users/nic/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/NhlDashboard.csproj.CopyComplete
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/Blazorise.dll
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/Blazorise.Icons.FontAwesome.dll
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/Blazorise.Licensing.dll
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/DeepCloner.dll
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.Authorization.dll
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.Components.dll
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.Components.Forms.dll
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.Components.Web.dll
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.Metadata.dll
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/Microsoft.JSInterop.dll
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/NhlDashboard.csproj.AssemblyReference.cache
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/obj/Debug/net8.0/NhlDashb.7BA60C10.Up2Date
+/Users/chrisbolton/Desktop/git/nhl-dashboard-web/NhlDashboard/bin/Debug/net8.0/Blazorise.Bootstrap.dll
